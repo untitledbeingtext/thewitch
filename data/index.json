@@ -1,0 +1,20 @@
+{
+  "palette": [
+    {
+      "primary": "#4e4035"
+    }
+  ],
+  "cards": {
+    "major_arcana": [
+      "major_arcana/the_fool.json",
+      "major_arcana/the_magician.json",
+      "major_arcana/the_high_priestess.json"
+    ],
+    "minor_arcana": {
+      "wands": [],
+      "pentacles": [],
+      "cups": [],
+      "swords": []
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "the_fool",
+  "name": "0. The Fool",
+  "anchorCol": 15,
+  "anchorRow": 15,
+  "keywords": [
+    "Khởi đầu mới",
+    "Tự do",
+    "Ngây thơ"
+  ],
+  "meaning": {
+    "upright": "Bước ngoặt mới, sự tự phát và niềm tin vào hành trình phía trước.",
+    "reversed": "Sự liều lĩnh, thiếu cân nhắc hoặc trì hoãn."
+  },
+  "pattern": [
+    ".P..P..P..P..P..P..P..P..P..P.",
+    "PPPPPPPPPPPPPPPPPPPPPPPPPPPPPP",
+    ".P...............P...P...P..P.",
+    ".P.P....PP........P..P..P...P.",
+    "PP...PPP.PPP....P..P.P.P..P.PP",
+    ".P..P..PP.PP........PPP.....P.",
+    ".P..P..PP.PPP.P..PPPP.PPPP..P.",
+    "PP..PPPPP.PPP.......PPP.....PP",
+    ".P.P.PPP.PPPP...P..P.P.P..P.P.",
+    ".P.PP...PPP.......P..P..P...P.",
+    "PP..PPPPPP.P.....P...P...P..PP",
+    ".P..PPP.P.PP.PPPP..P...P....P.",
+    ".P..........PP.P...........PP.",
+    "PP..........P.PP............PP",
+    ".P.P......P.PPP....PPP...P..P.",
+    ".P......PPP.......P.PP..PPP.P.",
+    "PP...PPP.PPP...P.....PP..P..PP",
+    ".P...PPPPPPP.........PP.....P.",
+    ".P.....PPPPPP...PPPP.PP.....P.",
+    "PP....PP.PPPPPPPPPPPPP...P..PP",
+    ".P........PPPPPPPPPPPPP.PPP.P.",
+    ".P..P.....PPPPPPPPPPPPP..P..P.",
+    "PP.PPP..PPPPPPPPP.PPPPPP....PP",
+    ".P..P..PPP.PPPPP..PPPP.PP...P.",
+    ".P.....PPP.PP.....PPP...P...P.",
+    "PP...PP...PPP..P....PP..P...PP",
+    ".P.......PP...PPP..PP..P....P.",
+    ".P.....PP......P..PP........P.",
+    "PPPPPPPPPPPPPPPPPPPPPPPPPPPPPP",
+    ".P..P..P..P..P..P..P..P..P..P."
+  ]
+}
